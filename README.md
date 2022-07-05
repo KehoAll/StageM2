@@ -13,8 +13,3 @@ Le dossier gelrupture contient quant à lui des codes propres àn l'analyse des 
 	pH_evolution.py permet de simuler l'évolution du pH au cours du temps d'ne solution de caséine avec une base faible et du GDL
 	
 Le notebook jupyter lab dans la racine contient les différents codes d'analyse de vidéo lif allant de la recherche de maxima en passant par le calcul de la matrice hessienne, le calcul de l'épaisseur du gel, l'évolution de l'orientation de la strucure en fonction etc... donc une très grande partie des codes d'analyses
-# StageM2
-# StageM2
-# StageM2
-# StageM2
-# StageM2
