@@ -1,0 +1,14 @@
+numpy
+pyvisa
+pyvisa-py
+pint
+
+[dev]
+check-manifest
+
+[doc]
+sphinx
+nbsphinx
+
+[test]
+pytest

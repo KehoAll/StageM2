@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: tensiometre
+Version: 0.0.1
+Summary: A Python package to control the tensiometre 2.0
+Home-page: https://github.com/MathieuLeocmach/tensiometre
+Author: Mathieu Leocmach
+Author-email: mathieu.leocmach@univ-lyon1.fr
+License: GPL
+Keywords: instrumentation measurement
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Provides-Extra: dev
+Provides-Extra: test
+Provides-Extra: doc
+License-File: LICENSE
+
+ICAMM
+=====
+Instrumentation of the "Immersed Cantilever Apparatus for Mechanics and Microscopy".
+
+Authors: Mathieu Leocmach, Akash Singh, Michio Tateno
+
+Licence, citations, contact
+---------------------------
+
+This code is under GPL 3.0 licence. See LICENCE file.
+
+Please cite ICAMM and it's author(s) in any scientific publication using this software.
+
+Contact Mathieu LEOCMACH, Institut Lumière Matière, UMR-CNRS 5306, Lyon,
+France mathieu.leocmach AT univ-lyon1.fr
+
+Installation
+---------------------------
+
+Dependencies are numpy, pyvisa, pyvisa-py, pint. Tested on debian linux with python 3.7.
+
+Install with: pip install -e .
+
+

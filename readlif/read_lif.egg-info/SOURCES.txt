@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+readme.md
+setup.py
+read_lif/__init__.py
+read_lif/read_lif.py
+read_lif.egg-info/PKG-INFO
+read_lif.egg-info/SOURCES.txt
+read_lif.egg-info/dependency_links.txt
+read_lif.egg-info/requires.txt
+read_lif.egg-info/top_level.txt
